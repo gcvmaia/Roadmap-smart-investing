@@ -35,7 +35,7 @@ A partir das fontes carregadas no NotebookLM, foi construído um **planejamento 
 - Um roteiro prático de alocação de capital dividido em 4 fases ao longo de 12 meses, desde a familiarização com as plataformas até a formação de uma reserva de emergência e a introdução gradual à renda variável via ETFs.
 - Um resumo final consolidando cada recomendação, sua justificativa financeira e a fonte específica em que se baseia.
 
-Esse plano foi transformado em três materiais concretos, disponíveis na pasta [`results/`](./results):
+Esse plano foi transformado em três materiais concretos, disponíveis na pasta [`Results/`](./Results):
 
 - **Mapa mental** (`Mapa-mental-investimentos.png`) — visão geral estruturada de todos os conceitos abordados no caderno temático (categorias de investimento, filosofia de Bogle, perfis de investidor, fatores estratégicos e passos práticos).
 - **Apresentação de slides** (`Plano-investimentos.pptx`) — versão resumida e visual do plano de ação em formato de apresentação.
@@ -45,7 +45,7 @@ Esse plano foi transformado em três materiais concretos, disponíveis na pasta 
 
 ## 📚 Curadoria de Fontes
 
-Foram selecionadas e carregadas no NotebookLM fontes abertas em texto, PDF e vídeo. O detalhamento completo de cada uma (com explicação do motivo da escolha) está disponível em [`sources/fontes.pdf`](./sources/fontes.pdf).
+Foram selecionadas e carregadas no NotebookLM fontes abertas em texto, PDF e vídeo. O detalhamento completo de cada uma (com explicação do motivo da escolha) está disponível em [`Sources/fontes.pdf`](./Sources/fontes.pdf).
 
 | # | Fonte | Tipo | Link |
 |---|-------|------|------|
@@ -222,9 +222,9 @@ sobre [SITUAÇÃO ATUAL]."
 ```
 .
 ├── README.md              # Este arquivo — documentação completa do desafio
-├── sources/                # Fontes utilizadas no NotebookLM
+├── Sources/                # Fontes utilizadas no NotebookLM
 │   └── fontes.pdf          # Curadoria detalhada das 5 fontes (links + explicações)
-└── results/                 # Materiais gerados a partir do caderno temático
+└── Results/                # Materiais gerados a partir do caderno temático
     ├── Mapa-mental-investimentos.png
     ├── Plano-investimentos.pptx
     └── Plano-investimentos-detalhado.pdf
